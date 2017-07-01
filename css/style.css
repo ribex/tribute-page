@@ -41,8 +41,15 @@ body {
 
 .subheading {
 	font-family: Arial;
-	font-size: 1.5em;
+	font-size: 2em;
 	text-align: center;
+	color: #282828;
+}
+
+.subsubheading {
+	font-family: Arial;
+	font-size: 1.5em;
+	text-align: left;
 	color: #282828;
 }
 
