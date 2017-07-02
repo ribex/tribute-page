@@ -33,22 +33,35 @@ body {
 .heading {
 	font-family: Arial;
 	font-size: 3em;
+	font-weight: 900;
 	text-align: center;
 	color: #212121;
 }
 
 .subheading {
 	font-family: Arial;
-	font-size: 2em;
+	font-size: 1.7em;
+	font-weight: 100;
 	text-align: center;
 	color: #282828;
 }
 
 .subsubheading {
 	font-family: Arial;
-	font-size: 1.5em;
+	font-size: 1.4em;
+	font-weight: 800;
 	text-align: left;
 	color: #282828;
+}
+
+a:hover { 
+    background-color: yellow;
+    color: #212121;
+}
+
+a:active {
+	background-color: yellow;
+    color: #757575;
 }
 
 img {
