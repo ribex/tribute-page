@@ -14,7 +14,7 @@ body {
 	background-color: #689F38;
 	display: block;
 	margin: auto;
-	width: 75%;
+	width: 90%;
 }
 
 .mainblock {
@@ -67,23 +67,23 @@ a:active {
 img {
 	display: block;
 	margin: auto;
-	width: 50%;
+	width: 40%;
 }
 
 article {
 	display: inline-block;
 	font-family: Helvetica;
-	font-size: 1.2em;
+	font-size: 1em;
 	color: #212121;
-	margin: 50px;
-	padding: 30px;
+	margin: 30px;
+	padding: 25px;
 	background-color: #DCEDC8;
 	border: 50px #BDBDBD;
 }
 
 footer {
 	font-family: Helvetica;
-	font-size: 1em;
+	font-size: .7em;
 	display: block;
 	margin: auto;
 	text-align: center;
@@ -105,6 +105,23 @@ footer {
 	margin: 0 0 10px 10px;
 	height: 217.3px;
 	width: 438px;
+}
+
+#theform {
+	font-size: 1.2em;
+	font-family: monospace;
+	margin: 10px;
+	padding: 5px;
+	text-align: left;
+}
+
+legend {
+	padding: 10px;
+	display: inline;
+}
+fieldset {
+	line-height: 200%;
+	width: 10%;
 }
 
 .portraitgroup {
