@@ -87,6 +87,13 @@ footer {
 	font-family: Helvetica;
 }
 
+#peatrait {
+	float: right;
+	margin: 0 0 10px 10px;
+	height: 217.3px;
+	width: 438px;
+}
+
 .portraitgroup {
 	margin: 50px;
 }
