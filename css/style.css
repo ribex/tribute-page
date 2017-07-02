@@ -15,6 +15,7 @@ body {
 	display: block;
 	margin: auto;
 	width: 90%;
+	font-family: monospace;
 }
 
 .mainblock {
@@ -81,6 +82,11 @@ article {
 	border: 50px #BDBDBD;
 }
 
+li {
+	font-style: oblique;
+	line-height: 2;
+}
+
 footer {
 	font-family: Helvetica;
 	font-size: .7em;
@@ -107,6 +113,11 @@ footer {
 	width: 438px;
 }
 
+#formquestiontime {
+	font-size: 1.3em;
+	font-family: monospace;
+}
+
 #theform {
 	font-size: 1.2em;
 	font-family: monospace;
@@ -115,10 +126,6 @@ footer {
 	text-align: left;
 }
 
-legend {
-	padding: 10px;
-	display: inline;
-}
 fieldset {
 	line-height: 200%;
 	width: 10%;
